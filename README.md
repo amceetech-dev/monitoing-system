@@ -28,5 +28,8 @@ This project is a real-time environmental monitoring system developed using an S
 
 ---
 
-## 📁 Repository Contents
+## 📁  Prototype
+
+![Pict1](https://github.com/user-attachments/assets/fde6c720-c6be-457f-a3e2-71af47ab67c2)
+<img width="452" alt="Pict2" src="https://github.com/user-attachments/assets/1e3cdb37-96cc-4496-8257-b32360321d15" />
 
