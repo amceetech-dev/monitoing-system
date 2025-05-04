@@ -11,7 +11,7 @@ This project is a real-time environmental monitoring system developed using an S
   - 🔥 **MQ6** – for detecting flammable gases
 
 - **Microcontroller**:
-  - 🧠 **STM32F103C8T6 (Blue Pill)**
+  - 🧠 **STM32F446RE (Nucleo)**
 
 - **Display**:
   - 🖥️ SSD1306 OLED (I2C)
